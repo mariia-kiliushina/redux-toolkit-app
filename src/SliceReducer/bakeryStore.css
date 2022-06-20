@@ -1,0 +1,8 @@
+.buyButton {
+  display: block;
+  color: white;
+  background-color: rgba(255, 166, 0, 0.735);
+}
+.buyButton:hover {
+  background-color: rgb(255, 166, 0);
+}
